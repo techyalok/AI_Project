@@ -10,6 +10,8 @@
 
 ![AI Flow diagram](https://github.com/techyalok/AI_Project/assets/73772700/802dc036-f49e-40ea-934e-7ca284dcb096)
 
+
+
 ## Execution
 
 <img width="1470" alt="Screenshot 2024-05-06 at 1 52 43 PM" src="https://github.com/techyalok/AI_Project/assets/73772700/239e4031-bf3c-4d73-8fb4-c7cfc4ef535d">
